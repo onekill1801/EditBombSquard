@@ -1,11 +1,11 @@
 <div class="col-sm-8 col-xs-12">
                 <div class="article">
 
-                    <div class="MarBot20">
-                        <h2 class="TitleJobNew">Mô tả công việc</h2>
-                        <div class="content_fck">
+<div class="MarBot20">
+<h2 class="TitleJobNew">Mô tả công việc</h2>
+<div class="content_fck">
 
-                            <p>*Công tác đảm bảo an toàn thông tin:</p>
+<p>*Công tác đảm bảo an toàn thông tin:</p>
 
 <ul>
 	<li>
