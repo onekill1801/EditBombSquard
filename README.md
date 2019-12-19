@@ -46,13 +46,13 @@
 </ul>
 
 
-                        </div>
-                    </div>
-                    <div class="MarBot20">
-                        <h2 class="TitleJobNew">Yêu Cầu Công Việc</h2>
-                        <div class="content_fck">
+</div>
+</div>
+<div class="MarBot20">
+<h2 class="TitleJobNew">Yêu Cầu Công Việc</h2>
+<div class="content_fck">
 
-                            <p>Tốt nghiệp đại học&nbsp;chuyên ngành CNTT hoặc tương đương.</p>
+<p>Tốt nghiệp đại học&nbsp;chuyên ngành CNTT hoặc tương đương.</p>
 
 <p>Có kiến thức cơ bản về kiến trúc, lỗ hổng ATTT trên một trong các nền tảng sau web, ứng dụng desktop, hệ điều hành (Windows/Linux), network</p>
 
@@ -79,50 +79,50 @@
 <p>Trung thực và tin tưởng</p>
 
 
-                        </div>
-                    </div>
-                        <div class="MarBot20">
-                            <h2 class="TitleJobNew">Thông tin khác</h2>
-                            <div class="content_fck">
+</div>
+</div>
+<div class="MarBot20">
+<h2 class="TitleJobNew">Thông tin khác</h2>
+<div class="content_fck">
 
-                                <p>- Vận hành khai thác, giám sát hệ thống; điều hành xử lý sự cố, ứng cứu thông tin, hỗ trợ xử lý PAKH các hệ thống viễn thông được giao.</p>
+<p>- Vận hành khai thác, giám sát hệ thống; điều hành xử lý sự cố, ứng cứu thông tin, hỗ trợ xử lý PAKH các hệ thống viễn thông được giao.</p>
 
 <p>- Tham gia xây dựng phương án đảm bảo an toàn thông tin và điều hành xử lý ứng cứu thông tin</p>
 
 <p>- Khai báo cơ sở dữ liệu trên hệ thống khi điều chỉnh thay đổi, thêm mới theo quy hoạch và trên hệ thống khi thực hiện các giải pháp xử lý, nâng cao chất lượng mạng, dịch vụ</p>
 
 
-                            </div>
-                        </div>
+</div>
+</div>
 
-                        <div class="what-we-offer mobile-box">
-                            <h2 class="TitleJobNew">Phúc lợi</h2>
-                            <ul class="list-benefits ullifix">
-                                
-                                    <li><span class="fa icon fa-hand-o-right"></span>Teambuilding, nghỉ mát hàng năm....</li>
-                                    <li><span class="fa icon fa-hand-o-right"></span>Phụ cấp điện thoại, Bảo hiểm XH, BHYT....</li>
-                                    <li><span class="fa icon fa-hand-o-right"></span>Phụ cấp độc hại 220.000VND/tháng</li>
-                                    <li><span class="fa icon fa-hand-o-right"></span>Tham gia các chương trình đào tạo nâng cao chuyên môn, nghiệp vụ định kỳ</li>
-                                    <li><span class="fa icon fa-hand-o-right"></span>Khám sức khỏe hàng năm</li>
-                            </ul>
-                        </div>
+<div class="what-we-offer mobile-box">
+<h2 class="TitleJobNew">Phúc lợi</h2>
+<ul class="list-benefits ullifix">
 
-                        <div class="company-info">
-                            <h2 class="TitleJobNew">Giới thiệu về đơn vị</h2>
-                            <div class="logo">
-                                <span style="background-image: url(/Images/logo.png);"></span>
-                            </div>
-                            <p><strong>Công ty Công nghệ thông tin VNPT</strong></p>
-                            <p>57 Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội</p>
-                            <p>Người liên hệ: <strong></strong></p><p><strong>&nbsp;Điện thoại:&nbsp;024 3232 1394</strong></p><strong>
+<li><span class="fa icon fa-hand-o-right"></span>Teambuilding, nghỉ mát hàng năm....</li>
+<li><span class="fa icon fa-hand-o-right"></span>Phụ cấp điện thoại, Bảo hiểm XH, BHYT....</li>
+<li><span class="fa icon fa-hand-o-right"></span>Phụ cấp độc hại 220.000VND/tháng</li>
+<li><span class="fa icon fa-hand-o-right"></span>Tham gia các chương trình đào tạo nâng cao chuyên môn, nghiệp vụ định kỳ</li>
+<li><span class="fa icon fa-hand-o-right"></span>Khám sức khỏe hàng năm</li>
+</ul>
+</div>
+
+<div class="company-info">
+<h2 class="TitleJobNew">Giới thiệu về đơn vị</h2>
+<div class="logo">
+<span style="background-image: url(/Images/logo.png);"></span>
+</div>
+<p><strong>Công ty Công nghệ thông tin VNPT</strong></p>
+<p>57 Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội</p>
+<p>Người liên hệ: <strong></strong></p><p><strong>&nbsp;Điện thoại:&nbsp;024 3232 1394</strong></p><strong>
 
 <p>&nbsp;Email: tuyendung@vnpt.vn</p>
 </strong><p></p>
 
-                            <div class="clearfix"></div>
-                                <p><a href="https://vnptit.vn/" title="Công ty Công nghệ thông tin VNPT">https://vnptit.vn/</a> </p>
-                            <p class="desc ullifix">
-                                </p><p>Công ty Công nghệ thông tin VNPT (Tên viết tắt: VNPT-IT) được thành lập theo Quyết định số 39/QĐ-VNPT-HĐTV-NL ngày 01 tháng 03 năm 2018 của Chủ tịch Tập đoàn Bưu chính Viễn thông Việt Nam, trên cơ sở tổ chức lại các nhiệm vụ và nguồn lực công nghệ thông tin thuộc Tập đoàn.</p>
+<div class="clearfix"></div>
+<p><a href="https://vnptit.vn/" title="Công ty Công nghệ thông tin VNPT">https://vnptit.vn/</a> </p>
+<p class="desc ullifix">
+</p><p>Công ty Công nghệ thông tin VNPT (Tên viết tắt: VNPT-IT) được thành lập theo Quyết định số 39/QĐ-VNPT-HĐTV-NL ngày 01 tháng 03 năm 2018 của Chủ tịch Tập đoàn Bưu chính Viễn thông Việt Nam, trên cơ sở tổ chức lại các nhiệm vụ và nguồn lực công nghệ thông tin thuộc Tập đoàn.</p>
 
 <p>VNPT-IT hoạt động trong lĩnh vực nghiên cứu phát triển, tích hợp các sản phẩm dịch vụ công nghệ thông tin phục vụ nội bộ Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và các khách hàng bên ngoài VNPT (bao gồm cả khách hàng Quốc tế).</p>
 
@@ -133,10 +133,10 @@
 - Sáng tạo không ngừng<br>
 - Đối tác đáng tin cậy</p>
 
-                            <p></p>
-                        </div>
+<p></p>
+</div>
 
 
-                </div>
+</div>
 
-            </div>
+</div>
